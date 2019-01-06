@@ -4,7 +4,7 @@
 
 Submitted by: **Srilakshmi Godavarti**
 
-Time spent: **3** hours spent in total
+Time spent: **6.5** hours spent in total
 
 ## User Stories
 
